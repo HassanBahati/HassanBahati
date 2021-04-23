@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**HassanBahati/HassanBahati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HassanBahati/HassanBahati** is a Full Stack Developer
 <!--
 Here are some ideas to get you started:
 
