@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**HassanBahati/HassanBahati** is a Full Stack Developer
+**Hassan** is a Full Stack Developer
 
 <!--
 Here are some ideas to get you started:
