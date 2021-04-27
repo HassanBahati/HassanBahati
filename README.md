@@ -3,7 +3,6 @@
 
 **HassanBahati/HassanBahati** is a Full Stack Developer
 
-<img src="https://avatars.githubusercontent.com/u/65954740?v=4" width="405" height="500" />
 <!--
 Here are some ideas to get you started:
 
@@ -20,8 +19,6 @@ Here are some ideas to get you started:
 ## How to Reach Me
 * Send me a mail :mailbox: at : mukisabahati@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/kakooza-jerry-916481b1/) [<img src='' alt='' height='20'>](https://www.instagram.com/the_ayahuasca_/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/KakoozaJerry) 
----
 
 ## My GitHub Stats &#x1f4c8;
 
