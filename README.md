@@ -3,7 +3,7 @@
 
 **HassanBahati/HassanBahati** is a Full Stack Developer
 
-<img src="https://avatars.githubusercontent.com/u/65954740?v=4" width="405" height="540" />
+<img src="https://avatars.githubusercontent.com/u/65954740?v=4" width="405" height="500" />
 <!--
 Here are some ideas to get you started:
 
