@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ## How to Reach Me
-* Send me a DM :mailbox: at : https://twitter.com/OpenCredential
+* Send me a DM :mailbox: at : https://twitter.com/HassanBahatiM
 * Connect with me :rocket: at : https://www.linkedin.com/feed/
 
 ## My GitHub Stats &#x1f4c8;
