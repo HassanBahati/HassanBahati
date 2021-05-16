@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ## How to Reach Me
-* Send me a mail :mailbox: at : mukisabahati@gmail.com
+* Send me a DM :mailbox: at : https://twitter.com/OpenCredential
 * Connect with me :rocket: at : https://www.linkedin.com/feed/
-* * Send me a DM 💬 at : https://twitter.com/OpenCredential
 
 ## My GitHub Stats &#x1f4c8;
 
