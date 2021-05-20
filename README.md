@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 
 ## How to Reach Me
-* Send me a DM :mailbox: at : https://twitter.com/HassanBahatiM
-* Connect with me :rocket: at : https://www.linkedin.com/feed/
+* Send me a DM :mailbox: on twitter : https://twitter.com/HassanBahatiM
+* Connect with me :rocket: on linkedIn : https://www.linkedin.com/feed/
 
 ## My GitHub Stats &#x1f4c8;
 
