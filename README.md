@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Hassan** is a Full Stack Developer with 3 years professional experience in programming clean and functional code. I have worked on a couple of successful projects both private and open source projects. 
+**Hassan** is a Full Stack Developer with professional experience in programming clean and functional code. I have worked on a couple of successful projects both private and open source projects. 
 
 <!--
 Here are some ideas to get you started:
