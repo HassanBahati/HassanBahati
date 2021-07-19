@@ -2,8 +2,6 @@
 
 
 **Hassan** is a Full Stack Developer with professional experience in programming clean and functional code. I have worked on a couple of successful projects both private and open source projects. 
-[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-
 
 <!--
 Here are some ideas to get you started:
