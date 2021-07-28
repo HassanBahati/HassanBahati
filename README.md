@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**Hassan** is a Full Stack Developer with professional experience in programming clean and functional code. I have worked on a couple of successful projects both private and open source projects. <br/>[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 
 <!--
 Here are some ideas to get you started:
@@ -16,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## How to Reach Me
+
 * Send me a DM :mailbox: on twitter : https://twitter.com/HassanBahatiM
 * Connect with me :rocket: on linkedIn : https://www.linkedin.com/in/hassanbahatimukisa/
 
