@@ -13,9 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hello world, i'm hassan
-* Send me a DM :mailbox: on twitter : https://twitter.com/HassanBahatiM
-* Connect with me :rocket: on linkedIn : https://www.linkedin.com/in/hassanbahatimukisa/
+hello world, i'm hassan. I bridge the gap between utilities and developers... 
+[Ask Me How](http://mail.google.com/mail/HassanMukisaBahati)
+
+* Send me a DM :mailbox: on twitter : [![Twitter][1.2]][1]
+* Connect with me :rocket: on linkedIn :  [![LinkedIn][2.2]][2].
+
+
+
+<!-- Icons -->
+
+[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white "twitter"
+
+[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn"
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/HassanBahatiM
+[2]: https://www.linkedin.com/in/hassanbahatimukisa/
 
 ## My GitHub Stats &#x1f4c8;
 
