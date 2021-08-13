@@ -1,4 +1,4 @@
-[![Open Source Love]()
+
 
 <!--
 Here are some ideas to get you started:
@@ -35,8 +35,8 @@ hello world, i'm hassan. I bridge the gap between utilities and developers...
 ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/HassanBahati/HassanBahati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanbahati&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HassanBahati&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/HassanBahati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanbahati&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hassan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HassanBahati&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hassan's GitHub Stats" />
 </a>
