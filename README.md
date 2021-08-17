@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 hello world, i'm hassan. I bridge the gap between utilities and developers... 
 [Ask Me How](mailto:mukisabahati@gmail.com)
-
-* Send me a DM :mailbox: on twitter : [![Twitter][1.2]][1]
-* Connect with me :rocket: on linkedIn :  [![LinkedIn][2.2]][2]
+[![Twitter][1.2]][1]
+ [![LinkedIn][2.2]][2]
 
 
 
