@@ -1,35 +1,20 @@
 
 
-<!--
-Here are some ideas to get you started:
+<h2 align="center">Hi, there 👋</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm Bahati.<br/> Computer Scientist, Software Engineer and a <b>huge</b> fan of Open-Source.</p>
+</p>
 
-hello world, i'm hassan. I bridge the gap between utilities and developers... 
-[Ask Me How](mailto:mukisabahati@gmail.com)
-[![Twitter][1.2]][1]
- [![LinkedIn][2.2]][2]
+<p align="center">
+  <a href="https://twitter.com/HassanBahatiM">
+   <img src="https://img.shields.io/badge/Twitter-blue?label=Twitter&logo=Twitter&style=for-the-badge" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/hassanbahatimukisa/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+  </a>
 
-
-
-<!-- Icons -->
-
-[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white "twitter"
-
-[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white "LinkedIn"
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/HassanBahatiM
-[2]: https://www.linkedin.com/in/hassanbahatimukisa/
+</p>
 
 ## My GitHub Stats &#x1f4c8;
 
