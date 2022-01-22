@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi, there 👋</h2>
 
-<p align="center">I'm Bahati.<br/> Computer Scientist, Software Engineer and a <b>huge</b> fan of Open-Source.</p>
+<p align="center">I'm Bahati.<br/> Computer Scientist, Software Engineer and a <b>huge</b> fan of Open-Source, Frontend & UX Design.</p>
 </p>
 
 <p align="center">
