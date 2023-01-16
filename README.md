@@ -4,7 +4,7 @@
 
 <p align="center">I'm Bahati.<br/> Maintainer of <a href="https://github.com/OSCA-Kampala-Chapter/react-ui">react-ui</a>. Am a Computer Scientist and a Software Developer.
 </p>
-<p align="center"><b>Fun fact:</b>&nbsp;Contributing to Open Source Software teaches me something new everyday.
+<p align="center"><b>Fun fact:</b>&nbsp;Contributing to Open Source Software teaches me something new everyday!
 </p>
 
 
