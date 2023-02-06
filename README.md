@@ -2,11 +2,20 @@
 
 <h2 align="center">Hi, there 👋</h2>
 
-<p align="center">I'm Bahati.<br/> Maintainer of <a href="https://github.com/OSCA-Kampala-Chapter/react-ui">react-ui</a>. Am a Computer Scientist and a Software Developer.
+<p align="center">I'm Bahati. Am a Computer Scientist and a Software Developer.<br/> 
 </p>
-<p align="center"><b>Fun fact:</b>&nbsp;Contributing to Open Source Software teaches me something new everyday!
+<p align="center">
 </p>
 
+**About me**
+
+- ❤️ <b>Fun fact:</b>&nbsp;Contributing to Open Source Software teaches me something new everyday!
+
+<!------ - 💼 Am a Computer Scientist and a Software Developer. --->
+
+- 📈 Maintainer of <a href="https://github.com/OSCA-Kampala-Chapter/react-ui">react-ui</a>
+
+- 💬 Ask me about anything [here](https://github.com/HassanBahati/HassanBahati/issues)
 
 <p align="center">
   <a href="https://twitter.com/HassanBahatiM">
