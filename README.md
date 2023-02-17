@@ -17,7 +17,7 @@
 
 - :construction_worker: Maintainer of <a href="https://github.com/OSCA-Kampala-Chapter/react-ui">react-ui</a>
 
-- 💬 Ask me about anything [here](https://github.com/HassanBahati/HassanBahati/issues)
+- 💬 Ask me about anything [here](https://github.com/HassanBahati/HassanBahati/issues/new)
 
 <p align="center">
   <a href="https://twitter.com/HassanBahatiM">
