@@ -17,7 +17,7 @@
 
 - :construction_worker: Maintainer of <a href="https://github.com/OSCA-Kampala-Chapter/react-ui">react-ui</a>
 
-- 👨‍💻 Software Engineer by day, Training Machine Learning models <a href="https://github.com/ai-uganda">@ai-uganda</a> by night
+<!-- - 👨‍💻 Software Engineer by day, Training Machine Learning models <a href="https://github.com/ai-uganda">@ai-uganda</a> by night -->
 
 - 💬 Ask me about anything [here](https://github.com/HassanBahati/HassanBahati/issues/new)
 
