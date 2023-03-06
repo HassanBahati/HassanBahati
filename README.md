@@ -11,6 +11,8 @@
 
 - ❤️ <b>Fun fact:</b>&nbsp;Contributing to Open Source Software teaches me something new everyday!
 
+- :green_heart: OSS Contributor <a href="https://github.com/nodejs">@node.js</a>, <a href="https://github.com/fastify">@fastify.js</a>
+
 <!------ - 💼 Am a Computer Scientist and a Software Developer. --->
 
 <!---- - 📈 --->
