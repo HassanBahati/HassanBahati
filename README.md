@@ -21,7 +21,7 @@
 
 <!-- - 👨‍💻 Software Engineer by day, Training Machine Learning models <a href="https://github.com/ai-uganda">@ai-uganda</a> by night -->
 
-- 💬 Ask me about anything [here](https://github.com/HassanBahati/HassanBahati/issues/new)
+- 💬 Ask me about anything [here](https://twitter.com/HassanBahatiM)
 
 <p align="center">
   <a href="https://twitter.com/HassanBahatiM">
