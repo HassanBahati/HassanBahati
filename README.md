@@ -9,7 +9,7 @@
 
 **About me**
 
-- ❤️ <b>Fun fact:</b>&nbsp;Contributing to Open Source Software teaches me something new everyday!
+- ❤️ Open source is my north star!
 
 - :green_heart: OSS Contributor <a href="https://github.com/nodejs">@node.js</a>, <a href="https://github.com/fastify">@fastify.js</a>
 
