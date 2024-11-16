@@ -2,7 +2,7 @@
 
 <h2 align="center">Hi, there 👋</h2>
 
-<p align="center">I'm Bahati. Am a Computer Scientist & Open Source Maintainer.<br/> 
+<p align="center">I'm Bahati. A Computer Scientist & Open Source Maintainer.<br/> 
 </p>
 <p align="center">
 </p>
