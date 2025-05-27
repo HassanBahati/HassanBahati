@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-I'm <strong>Hassan Bahati</strong>, a Computer Scientist passionate about open source. I maintain developer tools and SDKs, and contribute to projects that make developers' lives easier.
+I'm <strong>Hassan Bahati</strong>, a Computer Scientist passionate about open source. I maintain developer tools, SDKs and libraries, and contribute to projects that make developers' lives easier.
 </p>
 
 ---
