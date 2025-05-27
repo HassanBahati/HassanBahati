@@ -8,9 +8,7 @@ I'm <strong>Hassan Bahati</strong>, a Computer Scientist passionate about open s
 
 ### 🧑‍💻 About Me
 
-<!-- - 🛠️ Full-time open source maintainer at <a href="https://github.com/invertase" target="_blank">Invertase</a>, working on Firebase Extensions, Firebase Functions, TanStack Query Firebase, and more.
--->
-- 🛠️ Full-time open source engineer at <a href="https://github.com/invertase" target="_blank">Invertase</a>
+- 🛠️ Full-time open source maintainer at <a href="https://github.com/invertase" target="_blank">Invertase</a>, working on Firebase Extensions, Firebase Functions, TanStack Query Firebase, among others.
 - 👨‍💼 Co-Organizer and Platforms Lead at <a href="https://github.com/PyconUg" target="_blank">PyCon Uganda</a>.
 - 💬 Ask me anything on [X](https://x.com/HassanBahatiM).
 
