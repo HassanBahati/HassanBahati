@@ -1,36 +1,28 @@
-
-
-<h2 align="center">Hi, there 👋</h2>
-
-<p align="center">I'm Bahati. A Computer Scientist & Open Source Maintainer.<br/> 
-</p>
-<p align="center">
-</p>
-
-**About me**
-
-- 💫 Open source is my north star!
-
-- :green_heart: OSS Contributor <a href="https://github.com/nodejs">@node.js</a>, <a href="https://github.com/fastify">@fastify.js</a>
-
-<!------ - 💼 Am a Computer Scientist and a Software Developer. --->
-
-<!---- - 📈 --->
-
-- :construction_worker: Maintainer [@PyconUg](https://github.com/PyconUg)
-
-<!-- - 👨‍💻 Software Engineer by day, Training Machine Learning models <a href="https://github.com/ai-uganda">@ai-uganda</a> by night -->
-
-- 💬 Ask me about anything [here](https://twitter.com/HassanBahatiM)
+<h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-  <a href="https://twitter.com/HassanBahatiM">
-   <img src="https://img.shields.io/badge/Twitter-blue?label=Twitter&logo=Twitter&style=for-the-badge" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/hassanbahatimukisa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
-  </a>
-
+I'm <strong>Hassan Bahati</strong>, a Computer Scientist passionate about open source. I maintain developer tools and SDKs, and contribute to projects that make developers' lives easier.
 </p>
 
+---
+
+### 🧑‍💻 About Me
+
+<!-- - 🛠️ Full-time open source maintainer at <a href="https://github.com/invertase" target="_blank">Invertase</a>, working on Firebase Extensions, Firebase Functions, TanStack Query Firebase, and more.
+-->
+- 🛠️ Full-time open source engineer at <a href="https://github.com/invertase" target="_blank">Invertase</a>
+- 👨‍💼 Co-Organizer and Platforms Lead at <a href="https://github.com/PyconUg" target="_blank">PyCon Uganda</a>.
+- 💬 Ask me anything on [X](https://x.com/HassanBahatiM).
+
+---
+
+### 🔗 Connect with Me
+
+<p align="">
+  <a href="https://twitter.com/HassanBahatiM" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hassanbahatimukisa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
